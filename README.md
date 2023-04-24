@@ -2,7 +2,7 @@
 # Ing. En Sistemas Computacionales🖱🤓
 # SISTEMAS PROGRAMABLES 23a
 ![image](https://user-images.githubusercontent.com/89486861/233893663-8b48ffeb-7260-468b-89e8-c801e27a07b5.png)
------------------![image](https://user-images.githubusercontent.com/89486861/233893704-3ab70c69-c38f-425a-887f-acc0f2b83cca.png)--------------------
+-----------------------------------------![image](https://user-images.githubusercontent.com/89486861/233893704-3ab70c69-c38f-425a-887f-acc0f2b83cca.png)--------------------
 
 
 # OBJETIVO:
